@@ -1,23 +1,21 @@
-# Hello, I'm CHANGEME
+# Hello, I'm Wyatt Hixson
 <a href="https://www.linkedin.com/in/wyatt-hixson"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Experienced professional with over 3 years in the data center industry, adept at managing critical infrastructure and optimizing operational efficiency. Seeking a transition into cybersecurity roles, leveraging expertise in data protection and risk mitigation to safeguard digital assets and fortify organizational security.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+I am eager to leverage my diverse background in digital marketing, e-commerce management, and data center solutions as I transition into the dynamic and vital realm of cybersecurity. With a solid foundation established through academic achievements, professional experiences, and ongoing education, I am driven to contribute my skills and passion for problem-solving to safeguard digital assets and mitigate cyber threats. Through my GitHub cybersecurity portfolio, I aim to showcase my evolving expertise, collaborate with like-minded professionals, and make tangible contributions to the cybersecurity field. Join me on this journey as we navigate the ever-changing digital security landscape together.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Security Culture Assessment                   | <a href="https://docs.google.com/document/d/1oaf_eYUpWIoY9kuZyC9zbmuJz0--7EW9ooMTiQaMpQ8/edit?usp=sharing">Security Assessment</a>|
+| Linux Systems Administration | <a href="https://docs.google.com/document/d/1JMgvWZ0kpP8qywkFYDwM1XBr5aK7r2Nnc9tzvXNwEQc/edit?usp=sharing">Linux Systems Administration Report</a>|
+| Data Archiving and Logging         | <a href="https://docs.google.com/document/d/1pUrsGVplMHlp6iWNTPIKWhxndaRuLa7xmo_XbN7JW-E/edit?usp=sharing">Data Archiving and Logging Report</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
