@@ -29,9 +29,27 @@ I am eager to leverage my diverse background in digital marketing, e-commerce ma
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+</div>
+
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Snort-FF4500?&style=for-the-badge&logo=Snort&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security_Onion-3F61B1?&style=for-the-badge&logo=Security-Onion&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zenmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
+
+</div>
+
+### PenTesting
+<div>
+    <img src="https://img.shields.io/badge/-Hashcat-2E2E2E?&style=for-the-badge&logo=Hashcat&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Recon.ng-000000?&style=for-the-badge&logo=recon-ng&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shodan.io-FF6600?&style=for-the-badge&logo=Shodan&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-339933?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
 
 ### Endpoint
