@@ -27,7 +27,6 @@ I am eager to leverage my diverse background in digital marketing, e-commerce ma
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Operating Systems
 <div>
@@ -41,21 +40,28 @@ I am eager to leverage my diverse background in digital marketing, e-commerce ma
     <img src="https://img.shields.io/badge/-Snort-FF4500?&style=for-the-badge&logo=Snort&logoColor=white" />
     <img src="https://img.shields.io/badge/-Security_Onion-3F61B1?&style=for-the-badge&logo=Security-Onion&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zenmap-000000?&style=for-the-badge&logo=Nmap&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Burp_Suite-FF6600?&style=for-the-badge&logo=Burp%20Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Foxy_Proxy-FF6600?&style=for-the-badge&logo=Foxy%20Proxy&logoColor=white" />
 </div>
 
 ### PenTesting
 <div>
-    <img src="https://img.shields.io/badge/-Hashcat-2E2E2E?&style=for-the-badge&logo=Hashcat&logoColor=white" />
     <img src="https://img.shields.io/badge/-Recon.ng-000000?&style=for-the-badge&logo=recon-ng&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shodan.io-FF6600?&style=for-the-badge&logo=Shodan&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-339933?&style=for-the-badge&logo=Metasploit&logoColor=white" />
 </div>
 
-### Endpoint
+### Cryptography
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenSSL-721412?&style=for-the-badge&logo=OpenSSL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GPG-0093D0?&style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hashcat-2E2E2E?&style=for-the-badge&logo=Hashcat&logoColor=white" />
+</div>
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
 </div>
 
 ### SIEM
@@ -63,8 +69,12 @@ I am eager to leverage my diverse background in digital marketing, e-commerce ma
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
 </div>
 
+### Digital Forensics
+<div>
+    <img src="https://img.shields.io/badge/-Autopsy-000000?&style=for-the-badge&logo=Autopsy&logoColor=white" />
+</div>
+
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
