@@ -9,8 +9,6 @@ Experienced professional with over 3 years in the data center industry, adept at
 I am eager to leverage my diverse background in digital marketing, e-commerce management, and data center solutions as I transition into the dynamic and vital realm of cybersecurity. With a solid foundation established through academic achievements, professional experiences, and ongoing education, I am driven to contribute my skills and passion for problem-solving to safeguard digital assets and mitigate cyber threats. Through my GitHub cybersecurity portfolio, I aim to showcase my evolving expertise, collaborate with like-minded professionals, and make tangible contributions to the cybersecurity field. Join me on this journey as we navigate the ever-changing digital security landscape together.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
-
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Security Culture Assessment                   | <a href="https://docs.google.com/document/d/1oaf_eYUpWIoY9kuZyC9zbmuJz0--7EW9ooMTiQaMpQ8/edit?usp=sharing">Security Assessment</a>|
@@ -18,7 +16,10 @@ I am eager to leverage my diverse background in digital marketing, e-commerce ma
 | Data Archiving and Logging         | <a href="https://docs.google.com/document/d/1pUrsGVplMHlp6iWNTPIKWhxndaRuLa7xmo_XbN7JW-E/edit?usp=sharing">Data Archiving and Logging Report</a>|
 | Linux Hacking      |  <a href="https://docs.google.com/document/d/1uIzxSx-P7bEILw7KMpWYb4dla4CU7wFcCYmO8_l0zUM/edit?usp=sharing">Linux Hacking Capture the Flag</a>|
 | Windows System Administration                 | <a href="https://docs.google.com/document/d/1vW6BLgzR1N6tShW7Ef-D7yY59Fvh1eq66pbgf9d0qUA/edit?usp=sharing">Windows SysAdmin Activity</a>|
-| Network Security | <a href="https://docs.google.com/document/d/1Khqjprdxh_9RSjirTwumEygBlEj29iIHfSu-CKjGxRU/edit?usp=sharing">Network Security 1</a><br><a href="https://docs.google.com/document/d/19KYtDUex5rFacoeZriRMvJGVcv44u6L4AhZNCc--Gn8/edit?usp=sharing">Network Security 2</a>|
+| Network Security | <a href="https://docs.google.com/document/d/1Khqjprdxh_9RSjirTwumEygBlEj29iIHfSu-CKjGxRU/edit?usp=sharing">Network Security 1</a><br><a href="https://docs.google.com/document/d/19KYtDUex5rFacoeZriRMvJGVcv44u6L4AhZNCc--Gn8/edit?usp=sharing">Network Security 2</a><br><a href="https://docs.google.com/document/d/1XXc91DEqARicz5A0GpqvglemqKV7mAS4vFtIJ935jMQ/edit?usp=sharing">Network Security 3</a>|
+| Web Development                 | <a href="https://docs.google.com/document/d/1xcQqHM64UkdYcLSsywKg8jQIZCQlAx7QJwJFyh1ZxA4/edit?usp=sharing"> Web Development Activity</a>|
+| Cloud, Cloud Security, Networking, Web development, & Cryptography                 | <a href="https://docs.google.com/document/d/1vVHpNKuPA0Os_LUX3WMc2aLNBaINW0cKdJkCL-rfPTQ/edit?usp=sharing"> Web Application Project</a>|
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
