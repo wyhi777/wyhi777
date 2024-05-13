@@ -16,9 +16,9 @@ I am eager to leverage my diverse background in digital marketing, e-commerce ma
 | Security Culture Assessment                   | <a href="https://docs.google.com/document/d/1oaf_eYUpWIoY9kuZyC9zbmuJz0--7EW9ooMTiQaMpQ8/edit?usp=sharing">Security Assessment</a>|
 | Linux Systems Administration | <a href="https://docs.google.com/document/d/1JMgvWZ0kpP8qywkFYDwM1XBr5aK7r2Nnc9tzvXNwEQc/edit?usp=sharing">Linux Systems Administration Report</a>|
 | Data Archiving and Logging         | <a href="https://docs.google.com/document/d/1pUrsGVplMHlp6iWNTPIKWhxndaRuLa7xmo_XbN7JW-E/edit?usp=sharing">Data Archiving and Logging Report</a>|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Linux Hacking      |  <a href="https://docs.google.com/document/d/1uIzxSx-P7bEILw7KMpWYb4dla4CU7wFcCYmO8_l0zUM/edit?usp=sharing">Linux Hacking Capture the Flag</a>|
+| Windows System Administration                 | <a href="https://docs.google.com/document/d/1vW6BLgzR1N6tShW7Ef-D7yY59Fvh1eq66pbgf9d0qUA/edit?usp=sharing">Windows SysAdmin Activity</a>|
+| Network Security | <a href="https://docs.google.com/document/d/1Khqjprdxh_9RSjirTwumEygBlEj29iIHfSu-CKjGxRU/edit?usp=sharing">Network Security 1</a><br><a href="https://docs.google.com/document/d/19KYtDUex5rFacoeZriRMvJGVcv44u6L4AhZNCc--Gn8/edit?usp=sharing">Network Security 2</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
