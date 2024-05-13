@@ -1,5 +1,5 @@
 # Hello, I'm Wyatt Hixson
-<a href="https://www.linkedin.com/in/wyatt-hixson"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/wyatt-hixson/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
 Experienced professional with over 3 years in the data center industry, adept at managing critical infrastructure and optimizing operational efficiency. Seeking a transition into cybersecurity roles, leveraging expertise in data protection and risk mitigation to safeguard digital assets and fortify organizational security.
