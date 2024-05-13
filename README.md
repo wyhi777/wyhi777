@@ -22,7 +22,7 @@ I am eager to leverage my diverse background in digital marketing, e-commerce ma
 | Web Application Vulnerabilities                 | <a href="https://docs.google.com/document/d/1kncobzT3etMJFQwjnX_69OOES0OD8sMu4uQXqY0OtfM/edit?usp=sharing"> Web Application Vulnerabilities Activity</a>|
 | Penetration Testing                  | <a href="https://docs.google.com/document/d/1HU7TiSEbdy3VmI8UEMTToHItw--eYI2ssxn4kEnJqFA/edit?usp=sharing"> Pentest Report 1</a><br><a href="https://docs.google.com/document/d/1BXQM77lQoqzSVsp1bvtDl-doUApWvhO35p6dqYBungI/edit?usp=sharing"> Pentest Report 2</a>|
 | SIEM(SPLUNK)                 | <a href="https://docs.google.com/document/d/12ed4lz7aN9_YKDbbJeRrdH57BQvaI_omFAeGQMoOI48/edit?usp=sharing"> SPLUNK Activity 1</a><br><a href="https://docs.google.com/presentation/d/1KdwxHnTefwv6fC3Mh-g-wVxbv0Md-GxA9MV_1d4-2UQ/edit?usp=sharing"> SPLUNK Project Presentation</a>|
-| Scripting                 | <a href="https://docs.google.com/presentation/d/14FAc_drW08G7e7fn_2_YvbyTxq6Tf_-na0dsDSxvpsg/edit?usp=sharing"> Scripting Project Presentation</a><br><a href="https://docs.google.com/document/d/1U5_b69cHx_bAsBJIcqeJaXZJuu7p6zWK32r_YjBlDVA/edit?usp=sharing"> Port Vulnerabilities Write Up</a><br><a href="https://drive.google.com/file/d/1i2fKK9XPOV4p5VFlYh6d0tyD1IotJBSZ/view?usp=sharing"> Script Image</a>|
+| Scripting                 | <a href="https://docs.google.com/presentation/d/14FAc_drW08G7e7fn_2_YvbyTxq6Tf_-na0dsDSxvpsg/edit?usp=sharing"> Scripting Project Presentation</a><br><a href="https://docs.google.com/document/d/1U5_b69cHx_bAsBJIcqeJaXZJuu7p6zWK32r_YjBlDVA/edit?usp=sharing"> Port Vulnerabilities Write Up</a><br><a href="https://drive.google.com/file/d/1i2fKK9XPOV4p5VFlYh6d0tyD1IotJBSZ/view?usp=sharing"> Script Image</a><br><a href="https://docs.google.com/document/d/131nRcCHp0Li6plederUQYXh8yuqVcC-gQg6LucoW2SI/edit?usp=sharing"> Script Explanation</a>|
 
 
 
@@ -98,3 +98,4 @@ I am eager to leverage my diverse background in digital marketing, e-commerce ma
 - <a href="https://docs.google.com/presentation/d/14FAc_drW08G7e7fn_2_YvbyTxq6Tf_-na0dsDSxvpsg/edit?usp=sharing"> Scripting Project Presentation</a>
 - <a href="https://docs.google.com/document/d/1U5_b69cHx_bAsBJIcqeJaXZJuu7p6zWK32r_YjBlDVA/edit?usp=sharing"> Port Vulnerabilities Write Up</a>
 - <a href="https://drive.google.com/file/d/1i2fKK9XPOV4p5VFlYh6d0tyD1IotJBSZ/view?usp=sharing"> Script Image</a>
+- <a href="https://docs.google.com/document/d/131nRcCHp0Li6plederUQYXh8yuqVcC-gQg6LucoW2SI/edit?usp=sharing"> Script Explanation</a>
